@@ -15,9 +15,12 @@ The keyboard and rotary encoder driver software is already installed on the ATti
 Run the program and open the Serial Monitor within the Arduino IDE
 
 This program tests the following functions: 
+
 5.1 writing to the display over SPI 
+
 5.2 key and rotary encoder interrupt interface, reading and displaying key number and running tally of 
 Rotary Encoder increment or decrement ( do not exceed +/-127 for now) 
+
 5.3 Touch screen: displays the scaled value of x/y/pressure on the LCD when touched and paints a red dot. 
 Also displays the raw touch screen x/y/pressure on the serial monitor.
 
