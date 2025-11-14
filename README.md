@@ -7,6 +7,8 @@ This program runs on the Novaduino® Display PCBA available from Nova Radio Labs
 
 /* For Software and Hardware Demonstration of the Novaduino® Display NRT1000014RevC PCBA
 
+Please see novaradiolabs.com for purchasing the hardware, a complete User's Manual, and schematic.
+
 install this program onto a SparkFun SAMD51 M4+ Thing Plus or Adafruit M0 or M4 Feather Device.
 (Other Feather* form factor processors may work but have not been tested. Eg: STM32 or ESP32 or or RP2040 or RP2350 etc...)
 
